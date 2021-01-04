@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## R Markdown
 Hallo! In dieser kleinen Demo möchte ich euch die Möglichkeiten von R Markdown aufzeigen.
 Mit R Markdown kann man Dokumente schreiben, die sowohl den Text als auch den Code sowie statistische Analysen enthalten und die sich in viele verschiedene Output-Formate exportieren lassen (z. B. HTML-Webseiten, PDFs oder Word). 
-So kann man z. B. aus RStudio heraus Berichte, Präsentationen oder Bücher erstellen, die jeweils aktuelle Analysen enthalten. R Markdown ist eine sehr einfache Auszeichnungssprache, die gut lesbar und auch leicht zu erlernen ist. In diesem File demonstriere ich Euch die Basics. :)
+So kann man z. B. aus RStudio heraus Berichte, Präsentationen oder Bücher erstellen, die jeweils aktuelle Analysen enthalten. R Markdown ist eine sehr einfache Auszeichnungssprache, die gut lesbar und auch leicht zu erlernen ist. In diesem File demonstriere ich Euch die Basics.
 
 ## Markdown-Datei anlegen
 Eine neue Markdowndatei (Dateiendung .Rmd) könnt ihr in RStudio ganz einfach über das Menü anlegen:
