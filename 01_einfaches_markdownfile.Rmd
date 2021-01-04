@@ -140,3 +140,4 @@ R Markdown ist mit \LaTeX verzahnt und deshalb kann man die \LaTeX-Befehle nutze
 Und selbstverständlich kann man mit R Markdown Präsentationen, Webseiten oder ganze (interaktive) Bücher schreiben (bookdown). Verschränkt mit weiteren Technologien werden auch interaktive Inhalte in den Dateien möglich (z.B. mit jupyter notebooks, shiny apps).
 
 # Literaturverzeichnis
+title
